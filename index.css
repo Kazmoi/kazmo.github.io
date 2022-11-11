@@ -1,1 +1,38 @@
 
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   background-color: #3333;
+   font-family: 'Poppins', sans-serif;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+}
+
+.cover{
+   width: 900px;
+   height: 400px;
+   /*background: #000;*/
+   margin-top: 50px;
+   display: flex;
+}
+
+.box{
+   margin: 10px;
+   width: 800px;
+   height: 400px;
+   box-shadow: -1px 0 10px #000000;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   /*background-color: black;*/
+}
+
+img{
+   width: 300px;
+   height: 200px;
+   display: flex;
+}
+
