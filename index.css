@@ -4,6 +4,7 @@
    padding: 0;
 }
 body{
+   text-decoration: none;
    background-color: #3333;
    font-family: 'Poppins', sans-serif;
    align-items: center;
